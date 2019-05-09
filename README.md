@@ -1,3 +1,2 @@
 # hello-world
-I am new to programming starting with the language R
-My Educational background is mostly in the field of finance, financial analysis and portfolio management, but my interest shifted to a more technology advanced interest in the field of Data Science. I am starting my journey to learning all about data science and machine learning.
+I am a Business Analyst in the corporate world working on ways to use, visualise and store data more effectively. I am working and interested in working with R and Python. I am also interested in sofware development methodologies e.g. SCRUM.
